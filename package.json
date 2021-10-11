@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Daneedw/CIDeployment/issues"
   },
-  "homepage": "https://github.com/Daneedw/CIDeployment#readme"
+  "homepage": "https://github.com/Daneedw/CIDeployment#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
