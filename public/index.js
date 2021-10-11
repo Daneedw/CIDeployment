@@ -1,5 +1,8 @@
-const App = 12
-function App() { 
+const App = 12;
 
-    console.log("hi");
+function rawr() {
+  const test = App + 12;
+  document.appendChild(test);
 }
+
+rawr();
